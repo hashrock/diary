@@ -26,6 +26,14 @@ And I got `Internal Server Error` when I try to access :8000.
 
 But I can deploy to deno deploy this.
 
+update: 
+
+Luca taught me how to fix this. Just clean cache.
+
+> deno cache -r main.ts
+
+Thank you luca!
+
 ## Today's ESL question
 
 Taken from here:
