@@ -13,7 +13,7 @@ Also, I'd like to try the deno blog template. It's dogfooding :)
 
 ## Deno blog
 
-My first impression of deno blog, I like how the system is so thin, quite clean and simple. I am also very impressed how domain setting is easy in the Deno Deploy Dashboard. It also has an automated certification setup! I could setup [diary.hashrock.info](https://diary.hashrock.info/) within 10 min. Isn't it wonderful? Oh, I want `deno task new` command 🤣
+My first impression of deno blog, I like how the system is so thin, quite clean and simple. I am also very impressed how domain setting is easy in the Deno Deploy Dashboard. It also has an automated certification setup! I could setup [diary.hashrock.info](https://diary.hashrock.info/) within 10 min. Isn't it wonderful? Oh, I want `deno task new-post` command 🤣
 
 ## Error
 
