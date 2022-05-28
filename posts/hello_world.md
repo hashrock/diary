@@ -3,6 +3,8 @@ title: First day
 publish_date: 2022-05-28
 ---
 
+![writing diary](./hello_world.jpeg)
+
 Haha, This is my first post here.
 
 I start this because my English tutor recommend to write diary in English. I'm still not good at express myself in English. Especially I can't make long sentences.
