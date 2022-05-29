@@ -6,7 +6,7 @@
     {
       "language": "markdown",
       "scheme": "file",
-      "pattern": "posts/hello_world.md"
+      "pattern": "posts/*.md"
     }
   ]
 }
